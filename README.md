@@ -10,18 +10,18 @@ Frost-ddos-tool
 
 * `pkg install git -y`
 
-* `git clone https://github.com/mitimoti/DDOS-AMA`
+* `git clone https://github.com/zrafei/frost-ddos-tool`
 
 * `cd $HOME`
 
 * `ls`
 
-* `cd DDOS-AMA`
+* `cd frost-ddos-tool`
 
 * `ls`
 
-* `chmod +x `
+* `chmod +x frost-ddos-tool `
 
 * `ls`
 
-* `python DDOS-AMA.py `
+* `python frosttool.py `
